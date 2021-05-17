@@ -1,2 +1,4 @@
 # JavaScript-Course
-JavaScript Codes by Lectures
+First Code in JavaScript
+
+https://youtu.be/y1n30hX46WQ
